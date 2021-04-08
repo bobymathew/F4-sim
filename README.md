@@ -1,1 +1,1 @@
-C codes to simulate a F4 population based on infinite locus model and for the Bayesian estimation of breeding values. This was developed as a part of my PhD thesis: http://hss.ulb.uni-bonn.de/2012/2810/2810.htm.
+C codes to simulate a F4 population based on infinite locus model and for the Bayesian estimation of breeding values. This was developed as a part of my PhD thesis: https://bonndoc.ulb.uni-bonn.de/xmlui/handle/20.500.11811/5102
